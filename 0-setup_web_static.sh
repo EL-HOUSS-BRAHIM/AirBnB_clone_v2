@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#create and deploy test hbnb files
 sudo apt update -y
 sudo apt install nginx -y
 sudo mkdir -p /data/web_static/releases/test /data/web_static/shared/
